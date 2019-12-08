@@ -1,0 +1,5 @@
+baseURL = "https://rokib-rajon.github.io/"
+languageCode = "bn-BD"
+title = "রকিব রাজন"
+theme = "academic"
+publishDir=""
